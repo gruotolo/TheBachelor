@@ -1,0 +1,4 @@
+#Sat Mar 27 22:51:12 PDT 2021
+base.0=C\:\\Users\\gru_1\\Downloads\\Dating_App_Main-main\\Dating_App_Main-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
